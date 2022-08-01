@@ -1,2 +1,2 @@
-# docker-install-script
-Docker install script repository for Linux
+# linux-installation-scripts
+Install scripts repository for Linux
